@@ -9,6 +9,11 @@ public class Helloword {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
 		
 		
 
