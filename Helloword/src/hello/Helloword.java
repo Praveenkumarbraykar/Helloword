@@ -1,6 +1,10 @@
 package hello;
 
 public class Helloword {
+	class My
+	{
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -14,9 +18,6 @@ public class Helloword {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
-		
-		
-
 	}
 
 }
